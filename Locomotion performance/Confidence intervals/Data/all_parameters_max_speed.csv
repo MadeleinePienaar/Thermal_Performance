@@ -1,0 +1,4 @@
+Acclimation;lowerTmin;Tmin;upperTmin;SNTmin;lowerTopt;Topt;upperTopt;SNTopt;lowerTmax;Tmax;upperTmax;SNTmax;lowerTbr;Tbr;upperTbr;SNTbr;lowerRmax;Rmax;upperRmax;SNRmax
+18;0;0;11.504;a;32.5775;34.367;35.5389;b;43.612;44.398;44.827;c;10.348;11.432;12.0609;a;9.485;10.3015;11.326;ab
+25;10.793;13.577;14.7679;a;31.675;33.406;34.902;b;43.182;43.644;44.679;c;4.578;10.138;11.088;a;10.0059;11.2085;12.3065;b
+32;0;10.68;13.5786;a;32.052;34.275;36.642;b;43.5201;44.495;44.948;c;9.8439;10.826;12.889;a;7.4352;8.926;9.875;a

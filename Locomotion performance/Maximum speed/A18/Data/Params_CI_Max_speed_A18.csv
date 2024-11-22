@@ -1,0 +1,9 @@
+"","param","conf_lower","conf_upper","method","estimate"
+"1","rmax",8.71698361528141,10.8830897528976,"case bootstrap",9.77013939125928
+"2","topt",31.7748220994595,38,"case bootstrap",34.61
+"3","ctmin",-6.36532121135355,10.2701122034707,"case bootstrap",4.483
+"4","ctmax",55.7827369890273,81.6988309103825,"case bootstrap",64.736
+"5","e",0.261449172730936,0.767016747874763,"case bootstrap",0.478839293663724
+"6","thermal_safety_margin",22.8923699495251,43.7308412236478,"case bootstrap",30.126
+"7","thermal_tolerance",45.7847349349598,87.4616729639387,"case bootstrap",60.253
+"8","breadth",9.47388210123407,13.9005364229492,"case bootstrap",11.62
